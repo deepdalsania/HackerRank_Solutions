@@ -2,22 +2,51 @@
 *.class
 
 # Log file
-*.log
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
 
-# BlueJ files
-*.ctxt
+# Folder config file
+Desktop.ini
 
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
 
-# Package Files #
-*.jar
-*.war
-*.nar
-*.ear
-*.zip
-*.tar.gz
-*.rar
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
 
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
-hs_err_pid*
+# Windows shortcuts
+*.lnk
+
+# =========================
+# Operating System Files
+# =========================
+
+# OSX
+# =========================
+
+.DS_Store
+.AppleDouble
+.LSOverride
+.vscode
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
