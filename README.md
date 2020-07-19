@@ -5,11 +5,8 @@
 The problem solutions are entirely provided by [Deep Dalsania](https://www.hackerrank.com/deepdalsania). My primary purpose is to pass all the platform tests of a given problem. So that I did not follow any coding style. If you have any query then drop me message into [LinkedIn](https://www.linkedin.com/in/deep-dalsania-6b822198/) or else you can email me on `deeppatel.dd@gmail.com` like an old school people.
 ## Table of Contents
 1. [Certification](#certification)
-
    1.1 [Java (Basic)](#java-basic)
-
    1.2 [Python (Basic)](#python-basic)
-
 2. [Java](#java)
 ## Certification
 #### Java (Basic)
