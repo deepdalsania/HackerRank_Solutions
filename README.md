@@ -1,10 +1,26 @@
 <div align="center"><a href="https://www.hackerrank.com/deepdalsania" target="_blank"><img src="HackerRank%20Logo.png" width="450" height="auto"></a>
 
-[![Solutions](https://img.shields.io/badge/solutions-11-green.svg?style=flat-square)](https://github.com/deepdalsania/HackerRank_Solutions#table-of-contents) [![Author](https://img.shields.io/badge/author-deepdalsania-brightgreen.svg?style=flat-square)](https://www.hackerrank.com/deepdalsania) [![The MIT License](https://img.shields.io/badge/license-MIT-orange.svg?style=flat-square)](/LICENSE)</div><br/><br/>
+[![Solutions](https://img.shields.io/badge/solutions-18-green.svg?style=flat-square)](https://github.com/deepdalsania/HackerRank_Solutions#table-of-contents) [![Author](https://img.shields.io/badge/author-deepdalsania-brightgreen.svg?style=flat-square)](https://www.hackerrank.com/deepdalsania) [![The MIT License](https://img.shields.io/badge/license-MIT-orange.svg?style=flat-square)](/LICENSE)</div><br/><br/>
 
 The problem solutions are entirely provided by [Deep Dalsania](https://www.hackerrank.com/deepdalsania). My primary purpose is to pass all the platform tests of a given problem. So that I did not follow any coding style. If you have any query then drop me message into [LinkedIn](https://www.linkedin.com/in/deep-dalsania-6b822198/) or else you can email me on `deeppatel.dd@gmail.com` like an old school people.
 ## Table of Contents
-1. [Java](#java)
+1. [Certification](#certification)
+   1.1 [Java (Basic)](#java-basic)
+   1.2 [Python (Basic)](#python-basic)
+2. [Java](#java)
+## Certification
+#### Java (Basic)
+|Problem No.|Challenge|Solution|
+|:-:|:-:|:-:|
+|1|[Java Stack](Certification/01.%20Java%20(Basic)/Problems/01.%20Problem.pdf)|[Solution](Certification/01.%20Java%20(Basic)/01.%20Java%20Stack/Solution.java)|
+|2|[The Adder Class](Certification/01.%20Java%20(Basic)/Problems/01.%20Problem.pdf)|[Solution](Certification/01.%20Java%20(Basic)/02.%20The%20Adder%20Class/Solution.java)|
+|3|[MCQs](Certification/01.%20Java%20(Basic)/Problems/01.%20Problem.pdf)|[Solution](Certification/01.%20Java%20(Basic)/03.%20MCQs/Solution.ipynb)|
+#### Python (Basic)
+|Problem No.|Challenge|Solution|
+|:-:|:-:|:-:|
+|1|[Shape Classes with Area Method](Certification/02.%20Python%20(Basic)/Problems/01.%20Problem.pdf)|[Solution](Certification/02.%20Python%20(Basic)/01.%20Shape%20Classes%20with%20Area%20Method/Solution.py)|
+|2|[String Representations of Objects](Certification/02.%20Python%20(Basic)/Problems/01.%20Problem.pdf)|[Solution](Certification/02.%20Python%20(Basic)/02.%20String%20Representations%20of%20Objects/Solution.py)|
+|3|[Average Function](Certification/02.%20Python%20(Basic)/Problems/01.%20Problem.pdf)|[Solution](Certification/02.%20Python%20(Basic)/03.%20Average%20Function/Solution.py)|
 ## Java
 |Problem No.|Subdomain|Challenge|Difficulty|Score|Solution|
 |:-:|:-:|:-:|:-:|:-:|:-:|
@@ -17,5 +33,8 @@ The problem solutions are entirely provided by [Deep Dalsania](https://www.hacke
 |7|Introduction|[Java Loops II](https://www.hackerrank.com/challenges/java-loops)|Easy|10|[Solution](Java/01.%20Introduction/07.%20Java%20Loops%20II/Solution.java)|
 |8|Introduction|[Java Datatypes](https://www.hackerrank.com/challenges/java-datatypes)|Easy|10|[Solution](Java/01.%20Introduction/08.%20Java%20Datatypes/Solution.java)|
 |9|Introduction|[Java End-of-file](https://www.hackerrank.com/challenges/java-end-of-file)|Easy|10|[Solution](Java/01.%20Introduction/09.%20Java%20End-of-file/Solution.java)|
-|10|Strings|[Java Strings Introduction](https://www.hackerrank.com/challenges/java-strings-introduction)|Easy|5|[Solution](Java/02.%20Strings/01.%20Java%20Strings%20Introduction/Solution.java)|
-|11|Strings|[Java Substring](https://www.hackerrank.com/challenges/java-substring)|Easy|5|[Solution](Java/02.%20Strings/02.%20Java%20Substring/Solution.java)|
+|10|Introduction|[Java Static Initializer Block](https://www.hackerrank.com/challenges/java-static-initializer-block)|Easy|10|[Solution](Java/01.%20Introduction/10.%20Java%20Static%20Initializer%20Block/Solution.java)|
+|11|Strings|[Java Strings Introduction](https://www.hackerrank.com/challenges/java-strings-introduction)|Easy|5|[Solution](Java/02.%20Strings/01.%20Java%20Strings%20Introduction/Solution.java)|
+|12|Strings|[Java Substring](https://www.hackerrank.com/challenges/java-substring)|Easy|5|[Solution](Java/02.%20Strings/02.%20Java%20Substring/Solution.java)|
+## License
+License under [MIT](/LICENSE)
