@@ -1,6 +1,6 @@
 <div align="center"><a href="https://www.hackerrank.com/deepdalsania" target="_blank"><img src="HackerRank%20Logo.png" width="450" height="auto"></a>
 
-[![Solutions](https://img.shields.io/badge/solutions-19-green.svg?style=flat-square)](https://github.com/deepdalsania/HackerRank_Solutions#table-of-contents) [![Author](https://img.shields.io/badge/author-deepdalsania-brightgreen.svg?style=flat-square)](https://www.hackerrank.com/deepdalsania) [![The MIT License](https://img.shields.io/badge/license-MIT-orange.svg?style=flat-square)](/LICENSE)</div><br/><br/>
+[![Solutions](https://img.shields.io/badge/solutions-20-green.svg?style=flat-square)](https://github.com/deepdalsania/HackerRank_Solutions#table-of-contents) [![Author](https://img.shields.io/badge/author-deepdalsania-brightgreen.svg?style=flat-square)](https://www.hackerrank.com/deepdalsania) [![The MIT License](https://img.shields.io/badge/license-MIT-orange.svg?style=flat-square)](/LICENSE)</div><br/><br/>
 
 The problem solutions are entirely provided by [Deep Dalsania](https://www.hackerrank.com/deepdalsania). My primary purpose is to pass all the platform tests of a given problem. So that I did not follow any coding style. If you have any query then drop me message into [LinkedIn](https://www.linkedin.com/in/deep-dalsania-6b822198/) or else you can email me on `deeppatel.dd@gmail.com` like an old school people.
 ## Table of Contents
@@ -38,7 +38,8 @@ The problem solutions are entirely provided by [Deep Dalsania](https://www.hacke
 |9|Introduction|[Java End-of-file](https://www.hackerrank.com/challenges/java-end-of-file)|Easy|10|[Solution](Java/01.%20Introduction/09.%20Java%20End-of-file/Solution.java)|
 |10|Introduction|[Java Static Initializer Block](https://www.hackerrank.com/challenges/java-static-initializer-block)|Easy|10|[Solution](Java/01.%20Introduction/10.%20Java%20Static%20Initializer%20Block/Solution.java)|
 |11|Introduction|[Java Int to String](https://www.hackerrank.com/challenges/java-int-to-string)|Easy|10|[Solution](Java/01.%20Introduction/11.%20Java%20Int%20to%20String/Solution.java)|
-|12|Strings|[Java Strings Introduction](https://www.hackerrank.com/challenges/java-strings-introduction)|Easy|5|[Solution](Java/02.%20Strings/01.%20Java%20Strings%20Introduction/Solution.java)|
-|13|Strings|[Java Substring](https://www.hackerrank.com/challenges/java-substring)|Easy|5|[Solution](Java/02.%20Strings/02.%20Java%20Substring/Solution.java)|
+|12|Introduction|[Java Date and Time](https://www.hackerrank.com/challenges/java-date-and-time)|Easy|15|[Solution](Java/01.%20Introduction/12.%20Java%20Date%20and%20Time/Solution.java)|
+|13|Strings|[Java Strings Introduction](https://www.hackerrank.com/challenges/java-strings-introduction)|Easy|5|[Solution](Java/02.%20Strings/01.%20Java%20Strings%20Introduction/Solution.java)|
+|14|Strings|[Java Substring](https://www.hackerrank.com/challenges/java-substring)|Easy|5|[Solution](Java/02.%20Strings/02.%20Java%20Substring/Solution.java)|
 ## License
 License under [MIT](/LICENSE)
