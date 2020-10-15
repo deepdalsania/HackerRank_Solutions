@@ -1,6 +1,6 @@
 <div align="center"><a href="https://www.hackerrank.com/deepdalsania" target="_blank"><img src="HackerRank%20Logo.png" width="450" height="auto"></a>
 
-[![Solutions](https://img.shields.io/badge/solutions-23-green.svg?style=flat-square)](https://github.com/deepdalsania/HackerRank_Solutions#table-of-contents) [![Author](https://img.shields.io/badge/author-deepdalsania-brightgreen.svg?style=flat-square)](https://www.hackerrank.com/deepdalsania) [![The MIT License](https://img.shields.io/badge/license-MIT-orange.svg?style=flat-square)](/LICENSE)</div><br/><br/>
+[![Solutions](https://img.shields.io/badge/solutions-24-green.svg?style=flat-square)](https://github.com/deepdalsania/HackerRank_Solutions#table-of-contents) [![Author](https://img.shields.io/badge/author-deepdalsania-brightgreen.svg?style=flat-square)](https://www.hackerrank.com/deepdalsania) [![The MIT License](https://img.shields.io/badge/license-MIT-orange.svg?style=flat-square)](/LICENSE)</div><br/><br/>
 
 The problem solutions are entirely provided by [Deep Dalsania](https://www.hackerrank.com/deepdalsania). My primary purpose is to pass all the platform tests of a given problem. So that I did not follow any coding style. If you have any query then drop me message into [LinkedIn](https://www.linkedin.com/in/deep-dalsania-6b822198/) or else you can email me on `deeppatel.dd@gmail.com` like an old school people.
 ## Table of Contents
@@ -44,5 +44,6 @@ The problem solutions are entirely provided by [Deep Dalsania](https://www.hacke
 |15|Strings|[Java Substring](https://www.hackerrank.com/challenges/java-substring)|Easy|5|[Solution](Java/02.%20Strings/02.%20Java%20Substring/Solution.java)|
 |16|Strings|[Java Substring Comparisons](https://www.hackerrank.com/challenges/java-string-compare)|Easy|10|[Solution](Java/02.%20Strings/03.%20Java%20Substring%20Comparisons/Solution.java)|
 |17|Strings|[Java String Reverse](https://www.hackerrank.com/challenges/java-string-reverse)|Easy|10|[Solution](Java/02.%20Strings/04.%20Java%20String%20Reverse/Solution.java)|
+|18|Strings|[Java Anagrams](https://www.hackerrank.com/challenges/java-anagrams)|Easy|10|[Solution](Java/02.%20Strings/05.%20Java%20Anagrams/Solution.java)|
 ## License
 License under [MIT](/LICENSE)
