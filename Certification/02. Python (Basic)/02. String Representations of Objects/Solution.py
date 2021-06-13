@@ -13,7 +13,7 @@ class Car:
 class Boat:
 
     def __new__(cls,max_speed):
-        return "Car with the maximum speed of {0} knots".format(max_speed)
+        return "Boat with the maximum speed of {0} knots".format(max_speed)
 
 
 if __name__ == '__main__':
